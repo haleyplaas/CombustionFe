@@ -18,7 +18,9 @@ deposition fluxes and surface concentrations for Fe, with
 observations of soluble Fe used in model-observation comparison 
 are provided in excel file format. 
 
-Model output file naming conventions: 
+Model output file naming conventions (made available upon request
+due to storage space requirements -- please contact Haley E. Plaas
+at hep2126@columbia.edu and cc haleyeplaas@gmail.com): 
 CAM6-MIMI-a-INDCOALb-RESICOALc-WOODd-OILe.cam.hf.2009-2011.nc ; 
 where 
 
