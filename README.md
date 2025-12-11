@@ -9,6 +9,9 @@ are provided in this repository.
 All data and programming scripts are labeled with 
 Creative Commons Attribution 4.0 labeled for cited reuse.
 
+Please see the zenodo repository specifically for use of the 
+emissions inventories: 10.5281/zenodo.17903186 
+
 Data files include Fe and BC emissions inventories for the 
 pre-industrial (PI), present day (PD), and future (FU) eras, 
 as well as total and soluble Fe deposition fluxes for the 
