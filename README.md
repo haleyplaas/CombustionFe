@@ -12,4 +12,4 @@ Creative Commons Attribution 4.0 labeled for cited reuse.
 
 Please see the zenodo repository specifically for use of the 
 emissions inventories and model outputs for source-attributed aerosol-Fe: 
-10.5281/zenodo.17903186 
+https://doi.org/10.5281/zenodo.17903186
